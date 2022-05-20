@@ -1,4 +1,6 @@
-
+# ignore temporary file created by Learn
+preview-curriculum.zip
+autoconfig.yaml
 #ignore thumbnails created by windows
 Thumbs.db
 #Ignore files build by Visual Studio
