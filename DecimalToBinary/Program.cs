@@ -6,6 +6,7 @@ namespace DecimalToBinary
     {
         static void Main(string[] args)
         {
+
             Console.Write("Please enter in a series of decimal values (separated by spaces): ");
             string userNums = Console.ReadLine(); // collects user numbers
 
@@ -19,6 +20,12 @@ namespace DecimalToBinary
             }
 
 
+
         }
+
     }
 }
+
+
+
+

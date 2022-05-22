@@ -23,6 +23,7 @@ namespace Fibonacci
                 fibCurrent = fibNext;
                 fibNext = fibPrevious + fibCurrent;
             }
+
         }
     }
 }
